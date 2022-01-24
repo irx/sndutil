@@ -5,3 +5,8 @@ see:
 https://pubs.opengroup.org/external/auformat.html
 http://www.contrib.andrew.cmu.edu/~shadow/sparcaudio.html
 http://www.contrib.andrew.cmu.edu/~shadow/sparcaudio.html
+
+or
+---
+% man ./au.4
+---
